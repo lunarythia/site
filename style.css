@@ -5,4 +5,5 @@ body {
 
 #navigation {
 	width: 15%;
+	float: left;
 }
