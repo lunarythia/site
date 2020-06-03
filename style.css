@@ -4,6 +4,10 @@ body {
 }
 
 #navigation {
+	float: left;
+}
+
+#navigation {
 	width: 15%;
 	float: left;
 }
