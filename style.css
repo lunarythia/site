@@ -8,6 +8,6 @@ body {
 	float: left;
 }
 
-#navigation .nav_item a:hover, #navigation .nav_item a:active, #navigation .nav_item a:focus{
+.nav_item a:hover, .nav_item a:active, .nav_item a:focus{
 	background-color: rgb(255, 0, 251);
 }
