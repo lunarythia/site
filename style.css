@@ -3,14 +3,9 @@ body {
 	background-color: lightblue;
 }
 
-#navigation_2 {
+#navigation {
 	float: left;
 	padding-right: 15px;
-}
-
-#navigation {
-	width: 15%;
-	float: left;
 }
 
 .nav_item:hover, .nav_item:active, .nav_item:focus {
