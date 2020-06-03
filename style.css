@@ -7,3 +7,7 @@ body {
 	width: 15%;
 	float: left;
 }
+
+#navigation .nav_item a:hover, #navigation .nav_item a:active, #navigation .nav_item a:focus{
+	background-color: rgb(255, 0, 251);
+}
