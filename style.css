@@ -21,3 +21,8 @@ body {
 a:visited, a:link {
 	color: rgb(0, 0, 255);
 }
+
+.error {
+	float: right;
+	width: 100vh - 175;
+}
