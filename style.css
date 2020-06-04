@@ -16,3 +16,7 @@ body {
 .nav_item:visited, .nav_item:link {
 	color: rgb(0, 0, 255);
 }
+
+a:visited, a:link {
+	color: rgb(0, 0, 255);
+}
