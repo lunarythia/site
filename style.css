@@ -1,6 +1,7 @@
 body {
 	font-family: "Berkshire Swash", cursive;
-	background-color: lightblue;
+	background-color: darkgray;
+	color: white;
 }
 
 #navigation {
