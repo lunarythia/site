@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>	
+		<meta charset="utf-8">
+		<title>Home</title>
+		<meta http-equiv = "refresh" content = "0; url = index" />
+		<link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body>
+		<div id="navigation">
+			<iframe src="https://leafpool243.github.io/website/navigation.html" frameborder="0" style="height: 100vh; width: 175px;">
+</iframe>
+		</div>
+		
+		<p style="font-size: 16px;">
+			If you aren&rsquo;t me, I have no idea what you are doing here.<br>
+			If you aren&rsquo;t me and you are <em>still</em> here anyway, <em><strong>IGNORE</em></strong> the testing page. There&rsquo;s <em><strong>NOTHING</strong></em> there.
+		</p>
+		<h1>Hi! This is my website!</h1>
+	</body>
+</html>
