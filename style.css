@@ -24,5 +24,5 @@ a:visited, a:link {
 
 .error {
 	float: right;
-	width: 100vh - 175;
+	width: 100vh-175;
 }
