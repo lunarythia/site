@@ -23,6 +23,16 @@ a:visited, a:link {
 }
 
 .error {
-	float: right;
-	width: 100vh-175;
+	color: red
+}
+
+.error p {
+	text-align: center;
+	color: red;
+	font-size: 100px
+}
+
+.error h1 {
+	text-align: center;
+	color: red;
 }
